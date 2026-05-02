@@ -1,6 +1,10 @@
 # Dépendances (jamais versionner — utiliser npm ci / npm install)
 node_modules/
 
+# Config locale IDE / agents (ne pas pousser sur GitHub)
+.agents/
+.claude/
+
 # Build local (régénérer avec npm run build avant déploiement si besoin)
 # Décommente la ligne suivante si tu ne veux plus versionner dist/ :
 # dist/
