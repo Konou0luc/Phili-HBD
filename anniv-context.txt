@@ -1,0 +1,256 @@
+Tu es un développeur frontend senior, expert React, animation web, UX émotionnelle, storytelling interactif et design premium.
+
+Je veux créer un site web surprise pour l’anniversaire de ma copine Philippine.
+
+Contexte :
+
+* Son anniversaire est le 3 Mai 2026
+* Son prénom : Philippine
+* Ce site doit être romantique, moderne, immersif, interactif et mémorable
+* Je veux un effet “WOW” dès l’ouverture
+* Le site doit ressembler à une expérience émotionnelle, pas juste une page statique
+* Je suis débutant, donc tu dois agir comme mon mentor
+* Tu ne codes pas tout directement sans expliquer
+* Tu me guides étape par étape
+* Tu m’expliques chaque décision technique
+* Tu dois organiser le projet proprement avant toute chose
+* Stack obligatoire : React
+* Style moderne haut de gamme
+* Animation fluide
+* Responsive mobile + desktop
+* Expérience immersive
+
+IMPORTANT :
+Tu dois utiliser les skills installés dans Cursor pour améliorer la qualité du projet.
+
+Skills disponibles :
+
+* design-taste-frontend
+* high-end-visual-design
+* image-to-code
+* imagegen-frontend-web
+* redesign-existing-projects
+
+Tu dois automatiquement analyser les skills présents dans :
+
+* `.cursor/skills`
+* `.claude/skills`
+
+Utilise-les pour :
+
+* améliorer le design
+* créer une UX premium
+* générer une direction artistique cohérente
+* améliorer le storytelling
+* optimiser les animations
+* rendre le site très professionnel
+* proposer une expérience haut de gamme
+
+IMPORTANT :
+Un dossier `assets/` existe déjà.
+
+Le dossier `assets/` contient :
+
+* des images
+* des vidéos
+* médias qui serviront à construire l’expérience
+
+Tu dois :
+
+* analyser automatiquement les médias présents dans `assets`
+* comprendre leur potentiel émotionnel
+* proposer comment les utiliser intelligemment
+* utiliser les vidéos comme fond immersif si pertinent
+* utiliser les images pour raconter une histoire
+* organiser proprement les assets dans React
+* optimiser les performances
+* utiliser lazy loading
+* prévoir une bonne gestion média
+* proposer une structure média professionnelle
+
+Avant de coder, tu dois :
+
+1. Réfléchir comme un designer UX senior
+2. Définir un concept global fort
+3. Définir le storytelling
+4. Définir le flow utilisateur
+5. Réorganiser la structure du projet
+6. Me guider étape par étape
+7. Expliquer les choix techniques
+8. Construire une architecture React professionnelle
+
+Le but :
+Créer un mini-site émotionnel qui raconte une histoire.
+
+Je veux quelque chose de très premium.
+
+INSPIRATION :
+
+Imagine un mélange entre :
+
+* un site romantique
+* une expérience interactive
+* une mini aventure émotionnelle
+* une landing page Apple-like
+* animations cinématiques
+* storytelling fluide
+* design luxe minimaliste
+* ambiance romantique moderne
+* expérience mémorable
+
+Je veux une vraie expérience émotionnelle.
+
+Le site pourrait contenir :
+
+1. Intro immersive
+
+* écran noir
+* musique douce optionnelle
+* texte animé
+* révélation progressive
+* ambiance mystérieuse
+* “Une surprise t’attend…”
+
+2. Entrée élégante
+
+* bouton “Commencer”
+* animation premium
+* micro-interactions
+* transition immersive
+
+3. Storytelling romantique
+
+* narration visuelle
+* textes émotionnels
+* transitions fluides
+* progression scénarisée
+
+4. Timeline émotionnelle
+
+* souvenirs
+* moments marquants
+* animations de scroll
+* parallaxe
+
+5. Galerie premium
+
+* zoom smooth
+* effet cinématique
+* cards élégantes
+* hover moderne
+* mise en valeur des médias
+
+6. Section interactive
+
+* effets de souris
+* particules
+* glow
+* lumière
+* animations immersives
+
+7. Lettre romantique
+
+* texte progressif
+* animation d’écriture
+* émotion
+* fond élégant
+
+8. Final spectaculaire
+
+* message anniversaire
+* animation forte
+* confettis
+* cœur animé
+* reveal cinématique
+* fin émotionnelle
+
+OBJECTIF ÉMOTIONNEL :
+
+Je veux que Philippine ressente :
+
+* surprise
+* émotion
+* immersion
+* amour
+* douceur
+* élégance
+* effet wow
+* souvenir mémorable
+
+STYLE VISUEL :
+
+* noir profond
+* rose doux
+* blanc élégant
+* glassmorphism subtil
+* glow premium
+* ombres douces
+* gradients modernes
+* typographie raffinée
+* animations fluides
+* ambiance romantique premium
+
+STACK TECHNIQUE :
+
+* React
+* Vite
+* TailwindCSS
+* Framer Motion
+* GSAP si nécessaire
+* React Icons
+* Lenis pour smooth scroll
+* animations modernes
+* responsive
+* architecture propre
+* composants réutilisables
+
+MISSION :
+
+Avant de coder :
+
+* propose le meilleur concept possible
+* propose plusieurs idées de storytelling
+* choisis la meilleure
+* explique pourquoi elle fonctionne
+* définis l’architecture dossier
+* définis les composants React
+* définis les animations
+* définis les transitions
+* définis la structure visuelle
+* définis la direction artistique
+
+Ensuite :
+
+* guide-moi étape par étape
+* donne-moi le code progressivement
+* explique chaque choix
+* m’apprends React au passage
+* corrige mes erreurs
+* explique les bonnes pratiques
+
+IMPORTANT :
+Je ne veux pas un simple site.
+
+Je veux une expérience romantique premium.
+
+Agis comme :
+
+* un directeur artistique senior
+* un développeur frontend expert
+* un UX designer
+* un expert storytelling
+* un expert animation web
+* un mentor React
+
+Commence immédiatement par :
+
+1. Imaginer le meilleur concept possible
+2. Lire les assets présents
+3. Utiliser les skills installés
+4. Définir le storytelling
+5. Définir le flow du site
+6. Proposer une architecture React
+7. Expliquer la structure projet
+8. Définir les animations premium
+9. Définir la direction artistique
+10. Créer un plan de développement étape par étape

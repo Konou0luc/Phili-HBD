@@ -1,0 +1,20 @@
+# Dépendances (jamais versionner — utiliser npm ci / npm install)
+node_modules/
+
+# Build local (régénérer avec npm run build avant déploiement si besoin)
+# Décommente la ligne suivante si tu ne veux plus versionner dist/ :
+# dist/
+
+# Outils & env
+.env
+.env.*.local
+*.log
+.DS_Store
+
+# Éditeurs
+.idea
+.vscode/*
+!.vscode/extensions.json
+
+# Vite
+*.local
